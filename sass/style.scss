@@ -1,0 +1,21 @@
+// bootstrap scss
+@import "../bootstrap/scss/bootstrap";
+
+// fontawesome scss
+@import "../fontawesome/scss/fontawesome";
+@import "../fontawesome/scss/solid";
+@import "../fontawesome/scss/brands";
+@import "../fontawesome/scss/regular";
+
+// variable scss
+@import "variables";
+
+// default scss
+@import "common";
+
+// button scss
+@import "button";
+
+// body scss
+@import "top";
+@import "partner";

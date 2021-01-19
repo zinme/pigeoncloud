@@ -1,0 +1,30 @@
+.btn-custom{
+	font-size: 18px;
+	font-weight: 600;
+	color: $white_color;
+	border-width: 0px;
+	transition: 0.3s ease all;
+	padding: 7px 30px;
+	margin-left: 1px;
+}
+.btn-width{
+	width: 220px;
+}
+.btn-red{
+	background-color: $red_color;
+}
+.btn-blue{
+	background-color: $blue_color;
+}
+.btn-white{
+	background-color: $white_color;
+	color: $blue_color;
+}
+.btn-rounded{
+	border-radius: 30px;
+}
+.btn-border{
+	border: 1px solid $blue_color;
+	background: $white_color;
+	color: $blue_color;
+}
